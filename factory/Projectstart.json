@@ -1,0 +1,15 @@
+{
+	"name": "Projectstart",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2475166d-2d1b-46ce-9cbb-b1400cea762e",
+		"tenantId": "72ce91c4-eda4-4a8b-bbe4-503a18ac4aaf"
+	}
+}
